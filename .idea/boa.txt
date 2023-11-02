@@ -1,0 +1,123 @@
+Overview
+
+This document should be used to manage the team’s project. The instructors will reference your document to where your team is currently in the project. This template should be updated daily.
+
+Before filling out this form, please have the team lead complete the following steps:
+After receiving a project, this form should be completed by 9:30am EST the following day.
+
+Make a copy of the document.
+Name the document TeamName_ProjectName_ProjectPlan.  Ex.  LowesTeam1_Capstone_ProjectPlan
+Share this document with all team members
+Work with your team to fill out the rest of the template
+
+Project Manager
+@projectmanager (tag the PD project Manager)
+Team Lead
+@teamlead (tag the team lead)
+Teammates
+@team mates. (tag your teammates)
+Objective
+Summarize the objective in 1-2 sentences. Refer to the project requirements to help you write this.
+Due date
+Project Due date
+Key outcomes
+All webpages are mobile and tablet responsive
+Homepage consists of react components
+Project status
+ Not Started (Please ensure this is updated daily)
+
+
+Problem Statement
+Describe the problem and its impact. Include the hypothesis driving your work ("We think X will do Y, and we'll know we've succeeded if Z").
+
+Scope
+Scope is a way to set boundaries on your project and define exactly what goals, deadlines, and project deliverables you'll be working towards.
+
+Must Have
+(add the project requirements here)
+Responsive Nav Bar
+Connection to database
+Hosted on AWS
+Nice To Have
+(add features that would be extra)
+Upgrade database to RDS instance instead of MySql
+Not in Scope
+(add features that are out of scope)
+Integrate a React solution
+
+
+Milestones/Deadlines
+Use this table to manage all project tasks.
+Right-click and select “Insert Row” to add additional rows for additional tasks. Copy and paste the status to use the dropdown
+T-Shirt Sizing is where you rate the importance of a task.
+Large = Important tasks, the project will grind to a halt without it.  This could also be a task that will take a large amount of research or time to complete.
+Medium = require a medium amount of effort to complete.
+Small = Low-priority tasks.  As you learn new skills, tasks that used to be large may become small tasks.  Such as “Add JS validation to the contact form”
+*note* everyone in the group has to agree on the T-Shirt Size of a task.
+
+
+Task
+Details
+Owner
+(make sure to @ the owner)
+Deadline
+T-Shirt Sizing
+Status
+
+
+Make index.html page mobile responsive
+The site needs to be responsive for mobile and tablet
+ Justin McNeil
+12/31/2022
+ Small
+ Not Started
+
+
+
+
+
+
+
+
+ Medium
+ Blocked
+
+
+
+
+
+
+
+
+ Large
+ In Progress
+
+
+
+
+
+
+
+
+ Medium
+ Completed
+
+
+
+
+
+
+
+
+ Large
+ Not Started
+
+Agile Methodology
+To practice agile methodology, please submit the following form daily by 9:30 a.m. leading up to the project.  You should meet with your team before this form submission.
+
+Agile Methodology Submission Form
+Reference Materials
+Add links to articles, webpages, youtube videos, etc that will help your team with the project
+
+www.youtube.com
+Notes: 1:10  This will help Justin McNeil work on the API calls
